@@ -6,11 +6,11 @@
 ### Sobre
 Comecei meus estudos na área de tecnologia em 2014 e me formei em 2016 (curso técnico) no IBRATEC - foco em java, SQL, C#.
 
-Por questão de força maior tive que mudar meu foco, e também depois de não conseguir um estágio na área, aí eu foquei na área de infraestrutura e Redes.
+Por questão de força maior tive que mudar meu foco e, por não conseguir um estágio na área, precisei focar em outra área de infraestrutura e Redes.
 
-E em 2023 voltei a estudar fiz dois períodos e novamente parei, e tranquei a faculdade e só agora no no segundo semestre voltei aos estudos.
+E em 2023 voltei a estudar.
 
-hoje estou cursando Bacharel em Sistema de Informação | UniFBV Wyden.
+hoje estou cursando Bacharelado em Sistema de Informação | UniFBV Wyden.
 
 A procura da primeira experiência na área…
 
