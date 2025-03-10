@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/11303840?s=400&u=33128e966449da6e3e179e0510936a914cba12fe&v=4" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 
 
